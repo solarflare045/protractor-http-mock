@@ -23,6 +23,7 @@
     "url": "https://github.com/atecarlos/protractor-http-mock"
   },
   "dependencies": {
+    "matchie": "git://github.com/solarflare045/matchie.git",
     "query-string": "^1.0.0"
   }
 }
